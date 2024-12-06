@@ -9,3 +9,6 @@ omegaconf
 einops
 kiui
 scipy
+open3d
+pymcubes
+scikit-image
